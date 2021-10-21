@@ -7,7 +7,6 @@ Lightweight and customizable calculator widget. Written in plain JavaScript and 
 Follow a simple steps to integrate onto any website including those that run on Wordpress.
 
 1. Clone repository into directory of your server.
-2. Include scripts on the page as 
-  `<script src="/pathToFileOnYourSystem/items.js" type="module"></script>`
-  <br>
-  `<script src="/pathToFileOnYourSystem/action.js" type="module"></script>`
+2. Include scripts on the page as <br>
+`<script src="/pathToFileOnYourSystem/items.js" type="module"></script>` <br>
+`<script src="/pathToFileOnYourSystem/action.js" type="module"></script>`
