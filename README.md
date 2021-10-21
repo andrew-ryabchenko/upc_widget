@@ -8,5 +8,6 @@ Follow a simple steps to integrate onto any website including those that run on 
 
 1. Clone repository into directory of your server.
 2. Include scripts on the page as 
-  `<script src="/pathToFileOnYourSystem/items.js" type="module"></script> 
-  <script src="/pathToFileOnYourSystem/action.js" type="module"></script>`
+  `<script src="/pathToFileOnYourSystem/items.js" type="module"></script>`
+  <br>
+  `<script src="/pathToFileOnYourSystem/action.js" type="module"></script>`
