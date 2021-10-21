@@ -17,6 +17,7 @@ Follow a simple steps to integrate onto any website including those that run on 
 
 At this point the widget should appear on your page. 
 
-###Customizing items 
+### Customizing items 
 
-`items.js` defines special data structure ` var items` that contains calculator fields in form of {"Item name": unit price}. Follow the syntax of the existing code to add your own custom items. 
+`items.js` defines special data structure ` var items` that contains calculator fields in form of {"Item name": unit price}. <br> 
+Follow the syntax of the existing code to add your own custom items. 
