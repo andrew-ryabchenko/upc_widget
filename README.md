@@ -1,2 +1,1 @@
-# upc_widget
-Universal Price Calculator Widget
+# Universal Price Calculator Widget
