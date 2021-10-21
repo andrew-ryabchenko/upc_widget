@@ -12,7 +12,7 @@ Follow a simple steps to integrate onto any website including those that run on 
 `<script src="/pathToFileOnYourSystem/items.js" type="module"></script>` <br>
 `<script src="/pathToFileOnYourSystem/action.js" type="module"></script>` <br>
 `<link rel="stylesheet" href="/pathToFileOnYourSystem/calculator_style.css">` <br>
-3. Add html element that will contain the widget <br>
+3. Add html element that will serve as widget container<br>
 `<div class="main" id="main_container"></div>`
 
 At this point the widget should appear on your page. 
